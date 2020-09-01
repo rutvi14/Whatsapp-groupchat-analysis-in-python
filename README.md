@@ -27,7 +27,7 @@ You need to export the group chat without media and put that text file into your
 
 <br>
 ##Youtube Link
-[![If you liked my content then please like,share and subscribe my channel](https://img.youtube.com/vi/T-D1KVIuvjA/maxresdefault.jpg)](https://www.youtube.com/channel/UCwqfU9nsuWiMfug1mDI1-0Q)
+[![If you liked my content then please like,share and subscribe my channel](https://www.youtube.com/channel/UCwqfU9nsuWiMfug1mDI1-0Q)
 
 
 
