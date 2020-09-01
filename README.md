@@ -7,7 +7,6 @@
 You need to export the group chat without media and put that text file into your project folder where you are working.Then use ipynb file in that you can see all type of analysis that I have made.
 
 [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
-[![forthebadge](https://forthebadge.com/images/badges/built-for-android.svg)](https://forthebadge.com)
 
 ### Working
 * This project is to help everyone with:
@@ -20,7 +19,7 @@ You need to export the group chat without media and put that text file into your
 * Python
 
 ## 🤝 Connect with me on
-## I post daily Machine learning related amazing posts and also post videos and tutorials on youtube
+## I post daily Machine learning related amazing posts and also post videos and tutorials on youtube .You can subscribe my channel for getting notified when I post video
 
 * Rutvi:
 <br> [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rutvi-rajesh-5baa641a4/)
@@ -28,7 +27,7 @@ You need to export the group chat without media and put that text file into your
 
 <br>
 ##Youtube Link
-[![Watch the channel](https://img.youtube.com/vi/T-D1KVIuvjA/maxresdefault.jpg)](https://www.youtube.com/channel/UCwqfU9nsuWiMfug1mDI1-0Q)
+[![If you liked my content then please like,share and subscribe my channel](https://img.youtube.com/vi/T-D1KVIuvjA/maxresdefault.jpg)](https://www.youtube.com/channel/UCwqfU9nsuWiMfug1mDI1-0Q)
 
 
 
