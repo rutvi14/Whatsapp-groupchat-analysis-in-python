@@ -1,5 +1,5 @@
 # Whatsapp_groupchat_analysis
-## Covid Smart
+
 
 ### Hello, coders 👋
 ### This Project will analyse the statistics of a whatsapp group 
